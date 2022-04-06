@@ -2,21 +2,45 @@
   "posts": [
     {
       "id": 1,
-      "title": "welcome to the new blog",
-      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-      "likes": 30
+      "title": "Rose",
+      "body": "A rose is a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears. There are over three hundred species and tens of thousands of cultivars.[citation needed] They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles.[citation needed] Their flowers vary in size and shape and are usually large and showy, in colours ranging from white through yellows and reds. Most species are native to Asia, with smaller numbers native to Europe, North America, and northwestern Africa.[citation needed] Species, cultivars and hybrids are all widely grown for their beauty and often are fragrant. Roses have acquired cultural significance in many societies. Rose plants range in size from compact, miniature roses, to climbers that can reach seven meters in height.[citation needed] Different species hybridize easily, and this has been used in the development of the wide range of garden roses.",
+      "likes": 30,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPt3Jo6xg4zVOwS_GZ8PxJh0jVdOwS_Q5T9w&usqp=CAU"
     },
     {
       "id": 2,
-      "title": "new blog",
-      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-      "likes": 30
+      "title": "Bleeding Heart",
+      "body": "This flower manages to catch the attention of every person with its beautiful heart shape. Most commonly in the hues of pink and white, these are the perfect symbol of love and blooms throughout the entire spring season. These heart-shaped flowers grow well in a moist and cool climate and can be found in various shades of red, pink, yellow and white colors. As the name suggests, these flowers look like a bleeding heart and are astonishingly beautiful. These are one of the exotic blooms that you may come across in selective premium flower delivery service providers.",
+      "likes": 20,
+      "img": "https://floweraura-blog-img.s3.ap-south-1.amazonaws.com/flower-gifts-blog/bleeding-heart-most-beautiful-flowers-in-the-world.jpg"
     },
     {
       "id": 3,
-      "title": "welcome ",
-      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-      "likes": 30
+      "title": "Bird of Paradise",
+      "body": "As unique as its name, Bird Of Paradise is an exotic flower native to South Africa. When fully bloomed, this flower looks exactly like the bird of paradise in flight and hence the name. Also known as the crave flower, these flowers symbolise paradise itself. On blooming, each flower has three, upright, orange-colored sepals and three, horizontal, blue, inner sepals. The plant also has long, green leaves. These flowers grow well outside and require sunshine to bloom to the fullest. No wonder this gorgeous bloom is considered the world's most beautiful flower by many people! After all, they are a treat to the eyes!",
+      "likes": 41,
+      "img": "https://floweraura-blog-img.s3.ap-south-1.amazonaws.com/flower-gifts-blog/bird-of-paradise-most-beautiful-flowers-in-the-world.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Dahlia",
+      "body": "Dahlia is considered one of the most beautiful flower name for little girls. This blooming flower is super symmetrical, giving it an aesthetically pleasing appearance. A special bloom among flower lovers, these flowers have a great variety in their size and colours which attracts people all at once. There are approximately 42 different species of Dahlia flowers in the world. Ranging from 2 to 20 inches, this flower is native to Mexico and is widely cultivated all around the world. These colorful flowers bloom well between midsummer and first frost.",
+      "likes": 24,
+      "img": "https://floweraura-blog-img.s3.ap-south-1.amazonaws.com/flower-gifts-blog/dahlia-most-beautiful-flowers-in-the-world.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Lotus",
+      "body": "Regardless of how dirty the pond that a lotus grows into, the first sight of this flower brings an instant glow to your face. Nobody can ignore the beauty of a lotus flower which is also considered as a sacred flower for Buddhists and symbolises purity, harmony, divinity and grace. These flowers are mostly found in pink and white colours and require complete sunlight for their healthy growth. Lotus has attractive, multi-layered petals with a central head and both flowers and leaves float above the water surface.",
+      "likes": 35,
+      "img": "https://floweraura-blog-img.s3.ap-south-1.amazonaws.com/flower-gifts-blog/lotus-most-beautiful-flowers-in-the-world.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Gazania",
+      "body": "Native to South Africa, these flowers are also known as treasure flowers and bloom in pretty bright colors and have an attractive long stem. The blooms require complete sunshine and mostly appear in mid-summer and continue through early fall. Gazanias open in vivid shades of orange, yellow, red, pink, and white. This sun-loving flower blooms in the morning and closes in the evening.",
+      "likes": 40,
+      "img": "https://floweraura-blog-img.s3.ap-south-1.amazonaws.com/flower-gifts-blog/gazania-most-beautiful-flowers-in-the-world.jpg"
     }
   ]
 }
